@@ -7,7 +7,7 @@ const config = {
         port: 8080
     },
     db: {
-        connection: 'mongodb+srv://ericbals:ventilator1@cluster0-97cpr.mongodb.net/test?retryWrites=true&w=majority'
+        connection: 'mongodb+srv://@cluster0-97cpr.mongodb.net/test?retryWrites=true&w=majority'
     }
 };
 
